@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailReg", "MailReg\MailReg.csproj", "{E705BCA7-D16E-4EE9-BC63-30724ED25708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailRegData", "MailRegData\MailRegData.csproj", "{07163FCE-CAB0-4AA8-8CB6-C778F1359E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E705BCA7-D16E-4EE9-BC63-30724ED25708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E705BCA7-D16E-4EE9-BC63-30724ED25708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E705BCA7-D16E-4EE9-BC63-30724ED25708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E705BCA7-D16E-4EE9-BC63-30724ED25708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07163FCE-CAB0-4AA8-8CB6-C778F1359E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07163FCE-CAB0-4AA8-8CB6-C778F1359E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07163FCE-CAB0-4AA8-8CB6-C778F1359E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07163FCE-CAB0-4AA8-8CB6-C778F1359E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA70B73D-083C-4118-BBC9-9F70BB5E5F36}
+	EndGlobalSection
+EndGlobal
