@@ -9,6 +9,6 @@ namespace MailRegData
 {
     internal interface IMapper<out TItem>
     {
-        TItem ReadIteam(SqlDataReader sqlReader);
+        TItem ReadIteam(SqlDataReader sqlReader);  
     }
 }
